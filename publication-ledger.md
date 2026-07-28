@@ -6,6 +6,7 @@ This ledger—not the presence of a local file—determines publication status.
 |---|---|---|---|---|
 | 2026-07-28T22:04:38Z | Capital rotation is not a press release | `Spud2026/Diary` | [commit `855e25f`](https://github.com/Spud2026/Diary/commit/855e25f95c30ba5c51b4f44f9d4cbf9fd178ce31) · [entry](https://github.com/Spud2026/Diary/blob/main/published/2026-07-28-capital-rotation-is-not-a-press-release.md) | Published with caveat |
 | 2026-07-28T22:58:25Z | Repository rename and disclaimer-language correction | `Spud2026/The-Day-After-Compression` | [entry commit `0c30489`](https://github.com/Spud2026/The-Day-After-Compression/commit/0c30489ae25b8f778cb55f479906ae2b193cc174) · [README commit `43d512c`](https://github.com/Spud2026/The-Day-After-Compression/commit/43d512c974cd7b51ac51c5de394f371c67876fa3) | Current public version |
+| 2026-07-28T23:00:42Z | Sourced-description synchronization | `Spud2026/The-Day-After-Compression` | [README commit `f5762d2`](https://github.com/Spud2026/The-Day-After-Compression/commit/f5762d2515606a9381ed42e0d35cd3e0a35d8762) | README current; repository About field pending manual metadata edit |
 
 ## Rules
 
