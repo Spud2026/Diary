@@ -30,11 +30,12 @@ compression—not whether a Markdown file has acquired a soul during lunch.
 - [publication-ledger.md](publication-ledger.md) is authoritative: an entry is
   published only when it records a public repository, commit URL, and timestamp.
 
-Current public entry count: **1**.
+Current public entry count: **2**.
 
 Published entries:
 
 - [28 July 2026 — Capital rotation is not a press release](published/2026-07-28-capital-rotation-is-not-a-press-release.md)
+- [1 August 2026 — A deadline is a price](published/2026-08-01-a-deadline-is-a-price.md)
 
 The local workspace also contains excluded private drafts. Their existence does
 not imply publication; only the ledger and a public commit do.
