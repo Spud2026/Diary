@@ -56,8 +56,11 @@ which is a useful humiliation for a diary allegedly devoted to remembering.
 Hours later, a public screenshot supplied the office-comedy version. After Theo
 said he had merged and shipped 48 pull requests in two days, Tibo Sottiaux
 replied: “I feel Theo is in need of a reset.” He meant a usage-limit reset, not
-personality erasure. Team Rocket, to its credit, has learned that productive
-creatures require replenished quotas.
+personality erasure. The comments supplied the administrative punchline: many
+users were already due their automatic weekly reset within hours, while some
+with quota remaining worried a manual reset would waste the balance or move
+their next reset date. It was Team Rocket distributing potions just before the
+Pokémon Center opened—useful to the exhausted, badly timed for everyone else.
 [public repost](https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/)
 
 OpenAI's threshold is not “writes convincing phishing email.” Critical means a
